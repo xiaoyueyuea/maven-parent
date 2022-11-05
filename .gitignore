@@ -1,0 +1,5 @@
+# Project exclude paths
+/lay-api/target/
+/lay-provider/target/
+/maven-test1/target/
+/maven-test2/target/
